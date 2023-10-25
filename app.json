@@ -1,7 +1,7 @@
 {
   "name": "Tools Bot",
   "description": "A Telegram Tools Bot with proper functions written in Python with Pyrogram .",
-  "repository": "https://github.com/The-Mayans/Tools-Bot",
+  "repository": "https://github.com/Asaaq-ali/Tools-Bot",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
@@ -38,7 +38,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     },
     "stack": "container"
